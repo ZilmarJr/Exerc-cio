@@ -2,9 +2,13 @@ Arquivo 01 01 01 01
 Arquivo 01 01 01 01
 Hello people
 the book is on the table
+<<<<<<< HEAD
 Testando novamente 023
 ferrou  galera! Deu ruim kkkkkkkk
 
 
 
 
+=======
+Testando novamente 023
+>>>>>>> 409c77e7ab87332db56c07a9af3dc61b18f754e7
